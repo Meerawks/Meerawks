@@ -21,5 +21,9 @@ Please feel free to contact me for any opportunities.
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat" alt="Git">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat" alt="Linux">
    <img src="https://img.shields.io/badge/NodeJS-C21325?logo=nodejs&logoColor=fff&style=flat" alt="NodeJS">
+  <img src=" https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="  https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+ 
+
 </div>
 
