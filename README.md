@@ -2,12 +2,12 @@
 
 A solution-oriented developer, a thinker and a lifelong learner. I like development for the satisfaction it provides after you overcome a challenge and complete a project. Design ignites my passion, but backend logic fuels my problem-solving spirit. Always learning, always building! 
 
-<p style="text-style=italic">Currently Learning web development through 'The Odin Project'</p>
+<i>Currently Learning web development through 'The Odin Project'</i>
 
 Please feel free to contact me for any opportunities.
 
 - Email: sameer.asif.mughal@gmail.com
-- LinkedIn: <a href="https://www.linkedin.com/in/meerawks/" target=_blank>/in/artisdev</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/meerawks/" target=_blank>/in/meerawks</a>
 
 #### Languages and Tools
 
