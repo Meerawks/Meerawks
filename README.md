@@ -13,16 +13,16 @@ Please feel free to contact me for any opportunities.
 
 <div>
   <img src="https://img.shields.io/badge/JavaScript-1E2734?style=for-the-badge&logo=javascript&logoColor=yellow">
-  <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=orange">
-  <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=blue"><br>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-     <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=green">
-  <img src="https://img.shields.io/badge/GIT-20232A?style=for-the-badge&logo=git&logoColor=orange">
-  <img src="https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=orange"><br>
-  <img src="https://img.shields.io/badge/Linux-20232A?style=for-the-badge&logo=linux&logoColor=yellow">
-    <img src="https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=blue"> 
-  <img src="https://img.shields.io/badge/C%2B%2B-20232A?style=for-the-badge&logo=c%2B%2B&logoColor=blue">
-  <img src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=openjdk&logoColor=orange">
+  <img src="https://img.shields.io/badge/HTML5-1E2734?style=for-the-badge&logo=html5&logoColor=orange">
+  <img src="https://img.shields.io/badge/CSS3-1E2734?style=for-the-badge&logo=css3&logoColor=blue"><br>
+  <img src="https://img.shields.io/badge/React-1E2734?style=for-the-badge&logo=react&logoColor=61DAFB">
+     <img src="https://img.shields.io/badge/Node.js-1E2734?style=for-the-badge&logo=node.js&logoColor=green">
+  <img src="https://img.shields.io/badge/GIT-1E2734?style=for-the-badge&logo=git&logoColor=orange">
+  <img src="https://img.shields.io/badge/Figma-1E2734?style=for-the-badge&logo=figma&logoColor=orange"><br>
+  <img src="https://img.shields.io/badge/Linux-1E2734?style=for-the-badge&logo=linux&logoColor=yellow">
+    <img src="https://img.shields.io/badge/MySQL-1E2734?style=for-the-badge&logo=mysql&logoColor=blue"> 
+  <img src="https://img.shields.io/badge/C%2B%2B-1E2734?style=for-the-badge&logo=c%2B%2B&logoColor=blue">
+  <img src="https://img.shields.io/badge/Java-1E2734?style=for-the-badge&logo=openjdk&logoColor=orange">
 
 </div>
 
