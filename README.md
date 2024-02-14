@@ -21,7 +21,7 @@ Please feel free to contact me for any opportunities.
   <img src="https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=orange"><br>
   <img src="https://img.shields.io/badge/Linux-20232A?style=for-the-badge&logo=linux&logoColor=yellow">
     <img src="https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=blue"> 
-  <img src="https://img.shields.io/badge/C%2B%2B-20232A?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-20232A?style=for-the-badge&logo=c%2B%2B&logoColor=blue">
   <img src="https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=openjdk&logoColor=orange">
 
 </div>
