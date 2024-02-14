@@ -6,8 +6,7 @@ Currently Learning web development through 'The Odin Project'
 Student of BS Software Engineering at FUSST
 
 <h3>Languages & Technologies:</h3>
-<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,react,nodejs,git" />
   </a>
-</p>
+
