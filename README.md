@@ -20,6 +20,6 @@ Please feel free to contact me for any opportunities.
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat" alt="Tailwind CSS"><br>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat" alt="Git">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat" alt="Linux">
-   <img src="https://img.shields.io/badge/Nodejs-C21325?logo=nodejs&logoColor=fff&style=flat" alt="NodeJS">
+   <img src="https://img.shields.io/badge/NodeJS-C21325?logo=nodejs&logoColor=fff&style=flat" alt="NodeJS">
 </div>
 
