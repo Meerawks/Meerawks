@@ -5,7 +5,7 @@ A solution-oriented developer, a thinker and a lifelong learner. I like developm
 Currently Learning web development through 'The Odin Project'
 Student of BS Software Engineering at FUSST
 
-<h1>Skills & Technologies:</h1>
+<h3>Skills & Technologies:</h3>
 
 Here are some ideas to get you started:
 
