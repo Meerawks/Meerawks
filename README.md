@@ -7,6 +7,6 @@ Student of BS Software Engineering at FUSST
 
 <h3>Languages & Technologies:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,react,nodejs,git" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,react,nodejs,git,linux" />
   </a>
 
