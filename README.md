@@ -8,6 +8,7 @@ Please feel free to contact me for any opportunities.
 
 - Email: sameer.asif.mughal@gmail.com
 - LinkedIn: <a href="https://www.linkedin.com/in/meerawks/" target=_blank>/in/meerawks</a>
+- Kaggle: <a href="https://www.kaggle.com/meerawks" target=_blank>/in/meerawks</a>
 
 #### Languages and Tools
 
