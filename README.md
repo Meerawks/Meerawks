@@ -7,8 +7,8 @@ A solution-oriented developer, a thinker and a lifelong learner. I like developm
 Please feel free to contact me for any opportunities.
 
 - Email: sameer.asif.mughal@gmail.com
-- LinkedIn: <a href="https://www.linkedin.com/in/meerawks/" target=_blank>/in/meerawks</a>
-- Kaggle: <a href="https://www.kaggle.com/meerawks" target=_blank>/in/meerawks</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/meerawks/" target=_blank>Meerawks</a>
+- Kaggle: <a href="https://www.kaggle.com/meerawks" target=_blank>Meerawks</a>
 
 #### Languages and Tools
 
